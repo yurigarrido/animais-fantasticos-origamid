@@ -9,9 +9,9 @@ var eu = {
 
 // Crie um método no objeto anterior, que mostre o seu nome completo
 eu.nomeCompleto = function() {
-  return eu.nome + ' '+ eu.sobrenome;
+  return this.nome + ' '+ eu.sobrenome;
 }
-
+console.log(eu.nomeCompleto())
 // Modifique o valor da propriedade preco para 3000
 var carro = {
   preco: 1000,
