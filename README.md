@@ -19,3 +19,7 @@ Esse é um projeto que construi junto ao curso da Origamid. Onde pude aperfeiço
 - [x]  - Continua...
 
 ### Algumas imagens de como ficou o projeto:
+
+<img src='/img/paginainicial.png'/>
+<img src='/img/exemploodal.png'/>
+<img src='/img/modeloresponsivo.png'/>
