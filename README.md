@@ -20,6 +20,17 @@ Esse é um projeto que construi junto ao curso da Origamid. Onde pude aperfeiço
 
 ### Algumas imagens de como ficou o projeto:
 
+**Aqui é a pagina inical, assim que o site é carregado**
+<br />
+<br />
 <img src='/img/paginainicial.png'/>
-<img src='/img/exemploodal.png'/>
+<br />
+**Aqui é o modal que é exibido quando clicamos em 'Login'**
+<br />
+<br />
+<img src='/img/exemplomodal.png'/>
+<br />
+**Aqui é um modelo, caso queira abrir o site em um dispositivo móvel**
+<br />
+<br />
 <img src='/img/modeloresponsivo.png'/>
