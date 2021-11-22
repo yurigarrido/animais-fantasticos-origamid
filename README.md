@@ -1,6 +1,8 @@
 # JavaScirpt ES6
 Esse é um projeto que construi junto ao curso da Origamid. Onde pude aperfeiçoar o que já havia aprendido na Trybe, adquirir novos conhecimentos e praticar mais.
 
+# link para acessar a aplicação:
+[a melhor aplicacao que verei](https://yurigarrido.github.io/animais-fantasticos-origamid/)
 
 ## O que foi praticado durante o desenvolvimento do projeto:
 - [x]  - Varávies
